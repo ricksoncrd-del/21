@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Harvester Yeshua Christian School",
+    "emoji": "🏫",
+    "color": "#c9a84c",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "B7 Lot 3A & 3C, Gloriville Subdivision, Purok 2, Buntong Palay, Silangan, San Mateo, 1850 Rizal, Philippines.",
+    "principal": "TBA",
+    "contact": "0910-332-4187 | 0946-617-5936 | 0966-460-3538.",
+    "image": "https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/487239580_9313713065406662_7394151384964405640_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2a1932&_nc_ohc=M33oXU5aJaYQ7kNvwF6uUDv&_nc_oc=AdmHm950prQYVProfZQ_IDNZWWuKwaJ9_t7Q4eX54x1ErQRHTjXy554gZAhNdqPaxGE&_nc_zt=23&_nc_ht=scontent.fmnl17-1.fna&_nc_gid=MBpnq-lZavfYYdwzQO7jRw&_nc_ss=8&oh=00_AfxFePeZKOXVf4aOxkgv5NpeJdV_nxu0bATBPWPUBddttg&oe=69B0BDB1",
+    "tagline": "The school focuses on nurturing both academic excellence and spiritual growth, describing itself as a family in Christ",
+    "description": "Harvester Christian Academy provides a Christ-centered education that develops the whole child — academically, spiritually, and morally. We believe every student is a gift from God with unique God-given potential.",
+    "facebook": "https://www.facebook.com/hycs2016/",
+    "programs": [
+      { "title": "Preschool: Nursery, Kindergarten 1 & 2", "detail": "Foundation years" },
+      { "title": "Elementary Education","detail": "Grades 1–6" }
+    ]
+  },
+  {
+    "name": "Harvester Mission Disciples Academy",
+    "emoji": "🏫",
+    "color": "#64b5f6",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "Harvester Mission Central, San Mateo, Rizal",
+    "principal": "TBA",
+    "contact": "",
+    "image": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/649030089_3997322090565694_4999697280941695012_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeE_AXrMUMSa6UZSWcnSMdsIHWNUZrJfxOIdY1Rmsl_E4sqcMjkCgrBRiuxQrku24Y5rduMlYGSHJLYBmgin9v5A&_nc_ohc=PPcDxCAJuNEQ7kNvwEnFS_w&_nc_oc=AdkkNTAzHP454YVPpW_44bKxKKgtQbzP9UILoe1fFi-6ff-J6mVvy8F0eM9O6Lgzi_k&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=PGpVOIFZ3gmIFqU0q8NFug&_nc_ss=8&oh=00_AfxzbUwv7eVspKpXHvMvaiKAjgKLlnNMbyQwFe1npb8Prg&oe=69B34135",
+    "tagline": "Equipping disciples for the harvest.",
+    "description": "Harvester Bible Institute trains and equips believers for ministry and mission work. With a strong emphasis on Scripture, theology, and practical ministry skills, we raise up the next generation of servant-leaders.",
+    "facebook": "",
+    "programs": [
+      { "title": "Biblical Theology",        "detail": "Core curriculum" },
+      { "title": "Evangelism & Missions",    "detail": "Field training" },
+      { "title": "Discipleship Leadership",  "detail": "Module-based" },
+      { "title": "Worship & Music Ministry", "detail": "Elective" }
+    ]
+  }
+]
